@@ -5,7 +5,7 @@ title: Modern Greek Verbs
 
 # Modern Greek Verbs
 
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 <table>
   <thead>
