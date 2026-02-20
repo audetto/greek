@@ -1,0 +1,588 @@
+- lemma: γράφω
+  sort_key: γραφω
+  meaning: write
+  voices:
+    active:
+      present: γράφω
+      imperfect: έγραφα
+      aorist: έγραψα
+      aorist_subjunctive: γράψω
+      imperative:
+        singular: γράψε
+        plural: γράψτε
+    passive:
+      present: γράφομαι
+      imperfect: γραφόμουν
+      aorist: γράφτηκα
+      aorist_subjunctive: γραφτώ
+      imperative:
+        singular: γράψου
+        plural: γραφτείτε
+
+- lemma: διαβάζω
+  sort_key: διαβαζω
+  meaning: read
+  voices:
+    active:
+      present: διαβάζω
+      imperfect: διάβαζα
+      aorist: διάβασα
+      aorist_subjunctive: διαβάσω
+      imperative:
+        singular: διάβασε
+        plural: διαβάστε
+    passive:
+      present: διαβάζομαι
+      imperfect: διαβαζόμουν
+      aorist: διαβάστηκα
+      aorist_subjunctive: διαβαστώ
+      imperative:
+        singular: διαβάσου
+        plural: διαβαστείτε
+
+- lemma: βλέπω
+  sort_key: βλεπω
+  meaning: see
+  voices:
+    active:
+      present: βλέπω
+      imperfect: έβλεπα
+      aorist: είδα
+      aorist_subjunctive: δω
+      imperative:
+        singular: δες
+        plural: δείτε
+    passive:
+      present: βλέπομαι
+      imperfect: βλεπόμουν
+      aorist: ιδώθηκα
+      aorist_subjunctive: ιδωθώ
+      imperative:
+        singular: ιδώσου
+        plural: ιδωθείτε
+
+- lemma: θυμάμαι
+  sort_key: θυμαμαι
+  meaning: remember
+  voices:
+    middle:
+      present: θυμάμαι
+      imperfect: θυμόμουν
+      aorist: θυμήθηκα
+      aorist_subjunctive: θυμηθώ
+      imperative:
+        singular: θυμήσου
+        plural: θυμηθείτε
+
+- lemma: έρχομαι
+  sort_key: ερχομαι
+  meaning: come
+  voices:
+    middle:
+      present: έρχομαι
+      imperfect: ερχόμουν
+      aorist: ήρθα
+      aorist_subjunctive: έρθω
+      imperative:
+        singular: έλα
+        plural: ελάτε
+
+- lemma: φέρνω
+  sort_key: φερνω
+  meaning: bring
+  voices:
+    active:
+      present: φέρνω
+      imperfect: έφερα
+      aorist: έφερα
+      aorist_subjunctive: φέρω
+      imperative:
+        singular: φέρε
+        plural: φέρτε
+    passive:
+      present: φέρομαι
+      imperfect: φερόμουν
+      aorist: φέρθηκα
+      aorist_subjunctive: φερθώ
+      imperative:
+        singular: φέρσου
+        plural: φερθείτε
+
+- lemma: μαθαίνω
+  sort_key: μαθαινω
+  meaning: learn
+  voices:
+    active:
+      present: μαθαίνω
+      imperfect: μάθαινα
+      aorist: έμαθα
+      aorist_subjunctive: μάθω
+      imperative:
+        singular: μάθε
+        plural: μάθετε
+
+- lemma: σταματώ
+  sort_key: σταματο
+  meaning: stop
+  voices:
+    active:
+      present: σταματώ
+      imperfect: σταματούσα
+      aorist: σταμάτησα
+      aorist_subjunctive: σταματήσω
+      imperative:
+        singular: σταμάτα
+        plural: σταματήστε
+
+- lemma: φτάνω
+  sort_key: φτανω
+  meaning: arrive
+  voices:
+    active:
+      present: φτάνω
+      imperfect: έφτανα
+      aorist: έφτασα
+      aorist_subjunctive: φτάσω
+      imperative:
+        singular: φτάσε
+        plural: φτάστε
+
+- lemma: περιμένω
+  sort_key: περιμενω
+  meaning: wait
+  voices:
+    active:
+      present: περιμένω
+      imperfect: περίμενα
+      aorist: περίμενα
+      aorist_subjunctive: περιμένω
+      imperative:
+        singular: περίμενε
+        plural: περιμένετε
+
+- lemma: πεινάω
+  sort_key: πειναω
+  meaning: be hungry
+  voices:
+    active:
+      present: πεινάω
+      imperfect: πεινούσα
+      aorist: πείνασα
+      aorist_subjunctive: πεινάσω
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: διψάω
+  sort_key: διψαω
+  meaning: be thirsty
+  voices:
+    active:
+      present: διψάω
+      imperfect: διψούσα
+      aorist: δίψασα
+      aorist_subjunctive: διψάσω
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: πίνω
+  sort_key: πινω
+  meaning: drink
+  voices:
+    active:
+      present: πίνω
+      imperfect: έπινα
+      aorist: ήπια
+      aorist_subjunctive: πιω
+      imperative:
+        singular: πιες
+        plural: πιείτε
+
+- lemma: αλλάζω
+  sort_key: αλλαζω
+  meaning: change
+  voices:
+    active:
+      present: αλλάζω
+      imperfect: άλλαζα
+      aorist: άλλαξα
+      aorist_subjunctive: αλλάξω
+      imperative:
+        singular: άλλαξε
+        plural: αλλάξτε
+
+- lemma: προσπαθώ
+  sort_key: προσπαθω
+  meaning: try to / seek to
+  voices:
+    active:
+      present: προσπαθώ
+      imperfect: προσπαθούσα
+      aorist: προσπάθησα
+      aorist_subjunctive: προσπαθήσω
+      imperative:
+        singular: προσπάθησε
+        plural: προσπαθήστε
+
+- lemma: παίρνω
+  sort_key: παιρνω
+  meaning: take
+  voices:
+    active:
+      present: παίρνω
+      imperfect: έπαιρνα
+      aorist: πήρα
+      aorist_subjunctive: πάρω
+      imperative:
+        singular: πάρε
+        plural: πάρτε
+
+- lemma: κατανοώ
+  sort_key: κατανοω
+  meaning: understand
+  voices:
+    active:
+      present: κατανοώ
+      imperfect: κατανοούσα
+      aorist: κατάλαβα
+      aorist_subjunctive: κατανοήσω
+      imperative:
+        singular: κατάλαβε
+        plural: καταλάβετε
+
+- lemma: γνωρίζω
+  sort_key: γνωριζω
+  meaning: know
+  voices:
+    active:
+      present: γνωρίζω
+      imperfect: γνώριζα
+      aorist: γνώρισα
+      aorist_subjunctive: γνωρίσω
+      imperative:
+        singular: γνώρισε
+        plural: γνωρίστε
+
+- lemma: ζητώ
+  sort_key: ζητω
+  meaning: ask
+  voices:
+    active:
+      present: ζητώ
+      imperfect: ζητούσα
+      aorist: ζήτησα
+      aorist_subjunctive: ζητήσω
+      imperative:
+        singular: ζήτα
+        plural: ζητήστε
+
+- lemma: λέω
+  sort_key: λεω
+  meaning: say
+  voices:
+    active:
+      present: λέω
+      imperfect: έλεγα
+      aorist: είπα
+      aorist_subjunctive: πω
+      imperative:
+        singular: πες
+        plural: πείτε
+    passive:
+      present: λέγομαι
+      imperfect: λεγόμουν
+      aorist: ειπώθηκα
+      aorist_subjunctive: ειπωθώ
+      imperative:
+        singular: ειπώσου
+        plural: ειπωθείτε
+
+- lemma: δίνω
+  sort_key: δινω
+  meaning: give
+  voices:
+    active:
+      present: δίνω
+      imperfect: έδινα
+      aorist: έδωσα
+      aorist_subjunctive: δώσω
+      imperative:
+        singular: δώσε
+        plural: δώστε
+
+- lemma: κοιμάμαι
+  sort_key: κοιμαμαι
+  meaning: sleep
+  voices:
+    middle:
+      present: κοιμάμαι
+      imperfect: κοιμόμουν
+      aorist: κοιμήθηκα
+      aorist_subjunctive: κοιμηθώ
+      imperative:
+        singular: κοιμήσου
+        plural: κοιμηθείτε
+
+- lemma: ακούω
+  sort_key: ακουω
+  meaning: listen
+  voices:
+    active:
+      present: ακούω
+      imperfect: άκουγα
+      aorist: άκουσα
+      aorist_subjunctive: ακούσω
+      imperative:
+        singular: άκουσε
+        plural: ακούστε
+
+- lemma: στέλνω
+  sort_key: στελνω
+  meaning: send
+  voices:
+    active:
+      present: στέλνω
+      imperfect: έστελνα
+      aorist: έστειλα
+      aorist_subjunctive: στείλω
+      imperative:
+        singular: στείλε
+        plural: στείλτε
+
+- lemma: κλείνω
+  sort_key: κλεινω
+  meaning: close
+  voices:
+    active:
+      present: κλείνω
+      imperfect: έκλεινα
+      aorist: έκλεισα
+      aorist_subjunctive: κλείσω
+      imperative:
+        singular: κλείσε
+        plural: κλείστε
+
+- lemma: τελειώνω
+  sort_key: τελειωνω
+  meaning: finish
+  voices:
+    active:
+      present: τελειώνω
+      imperfect: τελείωνα
+      aorist: τελείωσα
+      aorist_subjunctive: τελειώσω
+      imperative:
+        singular: τελείωσε
+        plural: τελειώστε
+
+- lemma: χαϊδεύω
+  sort_key: χαϊδευω
+  meaning: flatter
+  voices:
+    active:
+      present: χαϊδεύω
+      imperfect: χάιδευα
+      aorist: χάιδεψα
+      aorist_subjunctive: χαϊδέψω
+      imperative:
+        singular: χάιδεψε
+        plural: χαϊδέψτε
+
+- lemma: ενοχλώ
+  sort_key: ενοχλω
+  meaning: annoy, bother
+  voices:
+    active:
+      present: ενοχλώ
+      imperfect: ενοχλούσα
+      aorist: ενόχλησα
+      aorist_subjunctive: ενοχλήσω
+      imperative:
+        singular: ενοχλήσε
+        plural: ενοχλήστε
+
+- lemma: παίζω
+  sort_key: παιζω
+  meaning: play
+  voices:
+    active:
+      present: παίζω
+      imperfect: έπαιζα
+      aorist: έπαιξα
+      aorist_subjunctive: παίξω
+      imperative:
+        singular: παίξε
+        plural: παίξτε
+
+- lemma: τρώω
+  sort_key: τρωω
+  meaning: eat
+  voices:
+    active:
+      present: τρώω
+      imperfect: έτρωγα
+      aorist: έφαγα
+      aorist_subjunctive: φάω
+      imperative:
+        singular: φάε
+        plural: φάτε
+
+- lemma: ξεχνάω
+  sort_key: ξεχναω
+  meaning: forget
+  voices:
+    active:
+      present: ξεχνάω
+      imperfect: ξέχναγα
+      aorist: ξέχασα
+      aorist_subjunctive: ξεχάσω
+      imperative:
+        singular: ξέχνα
+        plural: ξεχάστε
+
+- lemma: ανοίγω
+  sort_key: ανοιγω
+  meaning: open
+  voices:
+    active:
+      present: ανοίγω
+      imperfect: άνοιγα
+      aorist: άνοιξα
+      aorist_subjunctive: ανοίξω
+      imperative:
+        singular: άνοιξε
+        plural: ανοίξτε
+
+- lemma: μιλάω
+  sort_key: μιλαω
+  meaning: speak, talk
+  voices:
+    active:
+      present: μιλάω
+      imperfect: μιλούσα
+      aorist: μίλησα
+      aorist_subjunctive: μιλήσω
+      imperative:
+        singular: μίλησε
+        plural: μιλήστε
+
+- lemma: φεύγω
+  sort_key: φευγω
+  meaning: leave
+  voices:
+    active:
+      present: φεύγω
+      imperfect: έφευγα
+      aorist: έφυγα
+      aorist_subjunctive: φύγω
+      imperative:
+        singular: φύγε
+        plural: φύγετε
+
+- lemma: δουλεύω
+  sort_key: δουλευω
+  meaning: work (do work)
+  voices:
+    active:
+      present: δουλεύω
+      imperfect: δούλευα
+      aorist: δούλεψα
+      aorist_subjunctive: δουλέψω
+      imperative:
+        singular: δουλέψε
+        plural: δουλέψτε
+
+- lemma: βρίσκω
+  sort_key: βρισκω
+  meaning: find
+  voices:
+    active:
+      present: βρίσκω
+      imperfect: έβρισκα
+      aorist: βρήκα
+      aorist_subjunctive: βρω
+      imperative:
+        singular: βρες
+        plural: βρείτε
+    passive:
+      present: βρίσκομαι
+      imperfect: βρισκόμουν
+      aorist: βρέθηκα
+      aorist_subjunctive: βρεθώ
+      imperative:
+        singular: —
+        plural: βρεθείτε
+
+- lemma: πουλώ
+  sort_key: πουλω
+  meaning: sell
+  voices:
+    active:
+      present: πουλώ
+      imperfect: πουλούσα
+      aorist: πούλησα
+      aorist_subjunctive: πουλήσω
+      imperative:
+        singular: πούλησε
+        plural: πουλήστε
+
+- lemma: ντρεπόμαι
+  sort_key: ντρεπομαι
+  meaning: be ashamed
+  voices:
+    middle:
+      present: ντρεπόμαι
+      imperfect: ντρεπόμουν
+      aorist: ντράπηκα
+      aorist_subjunctive: ντραπώ
+      imperative:
+        singular: ντρέψου
+        plural: ντραπείτε
+
+- lemma: ζω
+  sort_key: ζω
+  meaning: live
+  voices:
+    active:
+      present: ζω
+      imperfect: ζούσα
+      aorist: έζησα
+      aorist_subjunctive: ζήσω
+      imperative:
+        singular: ζήσε
+        plural: ζήστε
+
+- lemma: βλέπω
+  sort_key: βλεπω
+  meaning: see
+  voices:
+    active:
+      present: βλέπω
+      imperfect: έβλεπα
+      aorist: είδα
+      aorist_subjunctive: δω
+      imperative:
+        singular: δες
+        plural: δείτε
+    passive:
+      present: βλέπομαι
+      imperfect: βλεπόμουν
+      aorist: ιδώθηκα
+      aorist_subjunctive: ιδωθώ
+      imperative:
+        singular: ιδώσου
+        plural: ιδωθείτε
+
+- lemma: θέλω
+  sort_key: θελω
+  meaning: want
+  voices:
+    active:
+      present: θέλω
+      imperfect: ήθελα
+      aorist: ήθελα
+      aorist_subjunctive: θέλω
+      imperative:
+        singular: —
+        plural: —

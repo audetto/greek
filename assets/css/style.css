@@ -1,0 +1,65 @@
+/* Table base styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  font-family: sans-serif;
+  font-size: 0.95em;
+}
+
+/* Header styles */
+table thead tr {
+  background-color: #004080;
+  color: white;
+  text-align: left;
+}
+
+table th, table td {
+  border: 1px solid #999;
+  padding: 0.4em 0.6em;
+}
+
+/* Alternate row colors */
+table tbody tr:nth-child(even) {
+  background-color: #f3f3f3;
+}
+
+/* Voice color-coding */
+td:nth-child(2) { /* Voice column */
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+/* Active: light green */
+tr td:nth-child(2):contains("active") {
+  color: #006600;
+}
+
+/* Passive: blue */
+tr td:nth-child(2):contains("passive") {
+  color: #003399;
+}
+
+/* Middle: orange */
+tr td:nth-child(2):contains("middle") {
+  color: #cc6600;
+}
+
+/* Future column italic */
+td:nth-child(6) {
+  font-style: italic;
+}
+
+/* Imperatives bold */
+td:nth-child(7),
+td:nth-child(8) {
+  font-weight: bold;
+}
+
+/* Responsive: allow horizontal scroll on small screens */
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
