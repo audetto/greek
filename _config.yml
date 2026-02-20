@@ -4,15 +4,7 @@ description: A reference of modern Greek verbs with active, passive, and middle 
 baseurl: ""  # leave empty if hosted at username.github.io/repo
 url: "https://audetto.github.io"  # replace with your GitHub Pages URL
 
-# Theme
-theme: minima  # simple default Jekyll theme
-
 # Markdown & plugins
 markdown: kramdown
 kramdown:
   input: GFM
-
-# Optional: enable plugins (if you plan to use any)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
