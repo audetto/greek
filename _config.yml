@@ -1,8 +1,8 @@
 # Site settings
 title: Modern Greek Verbs
 description: A reference of modern Greek verbs with active, passive, and middle voices
-baseurl: ""  # leave empty if hosted at username.github.io/repo
-url: "https://audetto.github.io"  # replace with your GitHub Pages URL
+baseurl: "/greek"
+url: "https://audetto.github.io"
 
 # Markdown & plugins
 markdown: kramdown
