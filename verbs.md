@@ -42,15 +42,20 @@ title: Νεοελληνικά ρήματα
 </table>
 
 <script>
+function normalizeGreek(text) {
+  // Decompose characters (separate letter from accent) and remove the accent mark
+  return text.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toUpperCase();
+}
+
 function filterTable() {
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("searchInput");
-  filter = input.value.toUpperCase();
+  filter = normalizeGreek(input.value);
   table = document.getElementById("verbsTable");
   tr = table.getElementsByTagName("tr");
   for (i = 1; i < tr.length; i++) {
     // Search all cells in the row
-    if (tr[i].textContent.toUpperCase().indexOf(filter) > -1) {
+    if (normalizeGreek(tr[i].textContent).indexOf(filter) > -1) {
       tr[i].style.display = "";
     } else {
       tr[i].style.display = "none";
@@ -70,10 +75,14 @@ function sortTable(n) {
       shouldSwitch = false;
       x = rows[i].getElementsByTagName("TD")[n];
       y = rows[i + 1].getElementsByTagName("TD")[n];
+      
+      // Use Greek locale comparison for correct accent sorting
+      var cmp = x.textContent.localeCompare(y.textContent, 'el');
+
       if (dir == "asc") {
-        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) { shouldSwitch = true; break; }
+        if (cmp > 0) { shouldSwitch = true; break; }
       } else if (dir == "desc") {
-        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) { shouldSwitch = true; break; }
+        if (cmp < 0) { shouldSwitch = true; break; }
       }
     }
     if (shouldSwitch) {
