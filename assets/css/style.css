@@ -63,7 +63,7 @@ td:nth-child(8) {
 /* Print styles */
 @media print {
   /* Hide common layout elements */
-  header, footer, nav, .site-header, .site-footer {
+  header, footer, nav, .site-header, .site-footer, #searchInput, .no-print {
     display: none;
   }
 

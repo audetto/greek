@@ -1,20 +1,23 @@
 ---
 layout: default
-title: Modern Greek Verbs
+title: Νεοελληνικά ρήματα
 ---
 
-# Modern Greek Verbs
+# {{ site.data.verbs | size }} νεοελληνικά ρήματα
 
-<table>
+<input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Αναζήτηση..." style="width: 100%; padding: 12px; margin-bottom: 12px; border: 1px solid #ddd; border-radius: 4px;">
+
+<table id="verbsTable">
   <thead>
-    <tr>
-      <th>Present</th>
-      <th>Voice</th>
-      <th>Aorist</th>
-      <th>Simple Future</th>
-      <th>Imperfect</th>
-      <th colspan="2">Imperative</th>
-      <th>Meaning</th>
+    <tr style="cursor: pointer;">
+      <th onclick="sortTable(0)">Ενεστώτας <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(1)">Φωνή <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(2)">Αόριστος <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(3)">Μέλλοντας <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(4)">Παρατατικός <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(5)">Προστ. (Εν.) <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(6)">Προστ. (Πληθ.) <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(7)">Σημασία <span class="no-print">&#x21C5;</span></th>
     </tr>
   </thead>
   <tbody>
@@ -37,3 +40,49 @@ title: Modern Greek Verbs
 {% endfor %}
   </tbody>
 </table>
+
+<script>
+function filterTable() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("searchInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("verbsTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 1; i < tr.length; i++) {
+    // Search all cells in the row
+    if (tr[i].textContent.toUpperCase().indexOf(filter) > -1) {
+      tr[i].style.display = "";
+    } else {
+      tr[i].style.display = "none";
+    }
+  }
+}
+
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementById("verbsTable");
+  switching = true;
+  dir = "asc";
+  while (switching) {
+    switching = false;
+    rows = table.rows;
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) { shouldSwitch = true; break; }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) { shouldSwitch = true; break; }
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      switchcount ++;
+    } else {
+      if (switchcount == 0 && dir == "asc") { dir = "desc"; switching = true; }
+    }
+  }
+}
+</script>
