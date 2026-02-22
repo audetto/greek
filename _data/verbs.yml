@@ -240,7 +240,7 @@
 
 - lemma: μπαίνω
   sort_key: μπαινω
-  meaning: enter
+  meaning: go in
   voices:
     active:
       present: μπαίνω
@@ -253,7 +253,7 @@
 
 - lemma: βγαίνω
   sort_key: βγαινω
-  meaning: exit
+  meaning: go out
   voices:
     active:
       present: βγαίνω
@@ -1476,7 +1476,7 @@
 
 - lemma: λείπω
   sort_key: λειπω
-  meaning: be absent, be missing
+  meaning: be absent, missing
   voices:
     active:
       present: λείπω
@@ -1807,3 +1807,89 @@
       imperative:
         singular: τηγάνισε
         plural: τηγανίστε
+
+- lemma: διαρκώ
+  sort_key: διαρκω
+  meaning: last (time)
+  voices:
+    active:
+      present: διαρκώ
+      imperfect: διαρκούσα
+      aorist: διάρκεσα
+      aorist_subjunctive: διαρκέσω
+      imperative:
+        singular: διάρκεσε
+        plural: διαρκέστε
+
+- lemma: ξοδεύω
+  sort_key: ξοδευω
+  meaning: spend (money)
+  voices:
+    active:
+      present: ξοδεύω
+      imperfect: ξόδευα
+      aorist: ξόδεψα
+      aorist_subjunctive: ξοδέψω
+      imperative:
+        singular: ξόδεψε
+        plural: ξοδέψτε
+    passive:
+      present: ξοδεύομαι
+      imperfect: ξοδευόμουν
+      aorist: ξοδεύτηκα
+      aorist_subjunctive: ξοδευτώ
+      imperative:
+        singular: ξοδέψου
+        plural: ξοδευτείτε
+
+- lemma: στέκομαι
+  sort_key: στεκομαι
+  meaning: stand
+  voices:
+    middle:
+      present: στέκομαι
+      imperfect: στεκόμουν
+      aorist: στάθηκα
+      aorist_subjunctive: σταθώ
+      imperative:
+        singular: στάσου
+        plural: σταθείτε
+
+- lemma: ανεβαίνω
+  sort_key: ανεβαινω
+  meaning: go up
+  voices:
+    active:
+      present: ανεβαίνω
+      imperfect: ανέβαινα
+      aorist: ανέβηκα
+      aorist_subjunctive: ανεβώ
+      imperative:
+        singular: ανέβα
+        plural: ανεβείτε
+
+- lemma: κατεβαίνω
+  sort_key: κατεβαινω
+  meaning: go down
+  voices:
+    active:
+      present: κατεβαίνω
+      imperfect: κατέβαινα
+      aorist: κατέβηκα
+      aorist_subjunctive: κατεβώ
+      imperative:
+        singular: κατέβα
+        plural: κατεβείτε
+
+- lemma: περνάω
+  sort_key: περναω
+  meaning: pass, cross
+  voices:
+    active:
+      present: περνάω
+      imperfect: περνούσα
+      aorist: πέρασα
+      aorist_subjunctive: περάσω
+      imperative:
+        singular: πέρασε
+        plural: περάστε
