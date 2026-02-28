@@ -124,6 +124,7 @@
 - lemma: σταματάω
   sort_key: σταματαω
   meaning: stop
+  category: Regular
   voices:
     active:
       present: σταματάω
@@ -163,6 +164,7 @@
 - lemma: πεινάω
   sort_key: πειναω
   meaning: be hungry
+  category: Physical
   voices:
     active:
       present: πεινάω
@@ -202,6 +204,7 @@
 - lemma: αγαπάω
   sort_key: αγαπαω
   meaning: love
+  category: Regular
   voices:
     active:
       present: αγαπάω
@@ -293,6 +296,7 @@
 - lemma: ρωτάω
   sort_key: ρωταω
   meaning: ask (question)
+  category: Regular
   voices:
     active:
       present: ρωτάω
@@ -306,6 +310,7 @@
 - lemma: απαντάω
   sort_key: απανταω
   meaning: answer
+  category: Regular
   voices:
     active:
       present: απαντάω
@@ -319,6 +324,7 @@
 - lemma: οδηγώ
   sort_key: οδηγω
   meaning: drive
+  category: Regular
   voices:
     active:
       present: οδηγώ
@@ -332,6 +338,7 @@
 - lemma: περπατάω
   sort_key: περπαταω
   meaning: walk
+  category: Regular
   voices:
     active:
       present: περπατάω
@@ -345,6 +352,7 @@
 - lemma: κοιτάζω
   sort_key: κοιταζω
   meaning: look
+  category: Action
   voices:
     active:
       present: κοιτάζω
@@ -358,6 +366,7 @@
 - lemma: βοηθάω
   sort_key: βοηθαω
   meaning: help
+  category: Regular
   voices:
     active:
       present: βοηθάω
@@ -436,6 +445,7 @@
 - lemma: διψάω
   sort_key: διψαω
   meaning: be thirsty
+  category: Physical
   voices:
     active:
       present: διψάω
@@ -462,6 +472,7 @@
 - lemma: συγχωράω
   sort_key: συγχωραω
   meaning: forgive
+  category: Special
   voices:
     active:
       present: συγχωράω
@@ -475,6 +486,7 @@
 - lemma: ανησυχώ
   sort_key: ανησυχω
   meaning: worry
+  category: Regular
   voices:
     active:
       present: ανησυχώ
@@ -501,6 +513,7 @@
 - lemma: συμφωνώ
   sort_key: συμφωνω
   meaning: agree
+  category: Regular
   voices:
     active:
       present: συμφωνώ
@@ -566,6 +579,7 @@
 - lemma: μπορώ
   sort_key: μπορω
   meaning: can, be able
+  category: Special
   voices:
     active:
       present: μπορώ
@@ -631,6 +645,7 @@
 - lemma: κρατάω
   sort_key: κραταω
   meaning: hold, keep
+  category: Regular
   voices:
     active:
       present: κρατάω
@@ -657,6 +672,7 @@
 - lemma: πετάω
   sort_key: πεταω
   meaning: fly, throw
+  category: Action
   voices:
     active:
       present: πετάω
@@ -691,6 +707,7 @@
 - lemma: τραγουδάω
   sort_key: τραγουδαω
   meaning: sing
+  category: Regular
   voices:
     active:
       present: τραγουδάω
@@ -730,6 +747,7 @@
 - lemma: φυσάω
   sort_key: φυσαω
   meaning: blow (wind)
+  category: Action
   voices:
     active:
       present: φυσάω
@@ -743,6 +761,7 @@
 - lemma: ξυπνάω
   sort_key: ξυπναω
   meaning: wake up
+  category: Regular
   voices:
     active:
       present: ξυπνάω
@@ -808,6 +827,7 @@
 - lemma: αφαιρώ
   sort_key: αφαιρω
   meaning: remove
+  category: Special
   voices:
     active:
       present: αφαιρώ
@@ -834,6 +854,7 @@
 - lemma: αργώ
   sort_key: αργω
   meaning: be late
+  category: Regular
   voices:
     active:
       present: αργώ
@@ -847,6 +868,7 @@
 - lemma: συναντάω
   sort_key: συνανταω
   meaning: meet
+  category: Regular
   voices:
     active:
       present: συναντάω
@@ -938,6 +960,7 @@
 - lemma: γελάω
   sort_key: γελαω
   meaning: laugh
+  category: Physical
   voices:
     active:
       present: γελάω
@@ -951,6 +974,7 @@
 - lemma: κρεμάω
   sort_key: κρεμαω
   meaning: hang
+  category: Physical
   voices:
     active:
       present: κρεμάω
@@ -964,6 +988,7 @@
 - lemma: φοράω
   sort_key: φοραω
   meaning: wear
+  category: Special
   voices:
     active:
       present: φοράω
@@ -977,6 +1002,7 @@
 - lemma: γερνάω
   sort_key: γερναω
   meaning: grow old
+  category: Physical
   voices:
     active:
       present: γερνάω
@@ -990,6 +1016,7 @@
 - lemma: καλώ
   sort_key: καλω
   meaning: call, invite
+  category: Special
   voices:
     active:
       present: καλώ
@@ -1003,6 +1030,7 @@
 - lemma: συζητάω
   sort_key: συζηταω
   meaning: discuss
+  category: Regular
   voices:
     active:
       present: συζητάω
@@ -1042,6 +1070,7 @@
 - lemma: χαλάω
   sort_key: χαλαω
   meaning: ruin, break
+  category: Physical
   voices:
     active:
       present: χαλάω
@@ -1081,6 +1110,7 @@
 - lemma: προσπαθάω
   sort_key: προσπαθαω
   meaning: try to / seek to
+  category: Regular
   voices:
     active:
       present: προσπαθάω
@@ -1120,6 +1150,7 @@
 - lemma: ζητάω
   sort_key: ζηταω
   meaning: ask
+  category: Regular
   voices:
     active:
       present: ζητάω
@@ -1258,6 +1289,7 @@
 - lemma: ξεχνάω
   sort_key: ξεχναω
   meaning: forget
+  category: Physical
   voices:
     active:
       present: ξεχνάω
@@ -1284,6 +1316,7 @@
 - lemma: μιλάω
   sort_key: μιλαω
   meaning: speak, talk
+  category: Regular
   voices:
     active:
       present: μιλάω
@@ -1344,6 +1377,7 @@
 - lemma: πουλάω
   sort_key: πουλαω
   meaning: sell
+  category: Regular
   voices:
     active:
       present: πουλάω
@@ -1370,6 +1404,7 @@
 - lemma: ζω
   sort_key: ζω
   meaning: live
+  category: Regular
   voices:
     active:
       present: ζω
@@ -1417,6 +1452,7 @@
 - lemma: πονάω
   sort_key: ποναω
   meaning: hurt, ache
+  category: Special
   voices:
     active:
       present: πονάω
@@ -1532,6 +1568,7 @@
 - lemma: εξηγώ
   sort_key: εξηγω
   meaning: explain
+  category: Regular
   voices:
     active:
       present: εξηγώ
@@ -1587,6 +1624,7 @@
 - lemma: λειτουργάω
   sort_key: λειτουργαω
   meaning: function, operate
+  category: Regular
   voices:
     active:
       present: λειτουργάω
@@ -1626,6 +1664,7 @@
 - lemma: τραβάω
   sort_key: τραβαω
   meaning: pull
+  category: Action
   voices:
     active:
       present: τραβάω
@@ -1652,6 +1691,7 @@
 - lemma: πηδάω
   sort_key: πηδαω
   meaning: jump
+  category: Action
   voices:
     active:
       present: πηδάω
@@ -1665,6 +1705,7 @@
 - lemma: κολυμπάω
   sort_key: κολυμπαω
   meaning: swim
+  category: Regular
   voices:
     active:
       present: κολυμπάω
@@ -1699,6 +1740,7 @@
 - lemma: σπάω
   sort_key: σπαω
   meaning: break
+  category: Physical
   voices:
     active:
       present: σπάω
@@ -1764,6 +1806,7 @@
 - lemma: φιλάω
   sort_key: φιλαω
   meaning: kiss
+  category: Regular
   voices:
     active:
       present: φιλάω
@@ -1811,6 +1854,7 @@
 - lemma: διαρκώ
   sort_key: διαρκω
   meaning: last (time)
+  category: Special
   voices:
     active:
       present: διαρκώ
@@ -1884,6 +1928,7 @@
 - lemma: περνάω
   sort_key: περναω
   meaning: pass, cross
+  category: Physical
   voices:
     active:
       present: περνάω

@@ -18,6 +18,7 @@ title: Νεοελληνικά ρήματα
       <th onclick="sortTable(5)">Προστ. (Εν.) <span class="no-print">&#x21C5;</span></th>
       <th onclick="sortTable(6)">Προστ. (Πληθ.) <span class="no-print">&#x21C5;</span></th>
       <th onclick="sortTable(7)">Σημασία <span class="no-print">&#x21C5;</span></th>
+      <th onclick="sortTable(8)">Κατηγορία <span class="no-print">&#x21C5;</span></th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +36,7 @@ title: Νεοελληνικά ρήματα
       <td>{{ v.imperative.singular | default: "" }}</td>
       <td>{{ v.imperative.plural | default: "" }}</td>
       <td>{{ verb.meaning }}</td>
+      <td>{{ verb.category | default: "" }}</td>
     </tr>
   {% endfor %}
 {% endfor %}
