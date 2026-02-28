@@ -1938,3 +1938,76 @@
       imperative:
         singular: πέρασε
         plural: περάστε
+
+- lemma: κλέβω
+  sort_key: κλεβω
+  meaning: steal
+  voices:
+    active:
+      present: κλέβω
+      imperfect: έκλεβα
+      aorist: έκλεψα
+      aorist_subjunctive: κλέψω
+      imperative:
+        singular: κλέψε
+        plural: κλέψτε
+
+- lemma: ενδιαφέρομαι
+  sort_key: ενδιαφερομαι
+  meaning: interest
+  voices:
+    active:
+      present: ενδιαφέρω
+      imperfect: ενδιέφερα
+      aorist: ενδιέφερα
+      aorist_subjunctive: ενδιαφέρω
+      imperative:
+        singular: —
+        plural: —
+    middle:
+      present: ενδιαφέρομαι
+      imperfect: ενδιαφερόμουν
+      aorist: ενδιαφέρθηκα
+      aorist_subjunctive: ενδιαφερθώ
+      imperative:
+        singular: ενδιαφέρσου
+        plural: ενδιαφερθείτε
+
+- lemma: λυπάμαι
+  sort_key: λυπαμαι
+  meaning: be sorry
+  voices:
+    middle:
+      present: λυπάμαι
+      imperfect: λυπόμουν
+      aorist: λυπήθηκα
+      aorist_subjunctive: λυπηθώ
+      imperative:
+        singular: λυπήσου
+        plural: λυπηθείτε
+
+- lemma: φταίω
+  sort_key: φταιω
+  meaning: be at fault
+  voices:
+    active:
+      present: φταίω
+      imperfect: έφταιγα
+      aorist: έφταιξα
+      aorist_subjunctive: φταίξω
+      imperative:
+        singular: φταίξε
+        plural: φταίξτε
+
+- lemma: ψέλνω
+  sort_key: ψελνω
+  meaning: chant
+  voices:
+    active:
+      present: ψέλνω
+      imperfect: έψελνα
+      aorist: έψαλα
+      aorist_subjunctive: ψάλω
+      imperative:
+        singular: ψάλε
+        plural: ψάλτε
