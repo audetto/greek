@@ -590,6 +590,27 @@
         singular: —
         plural: —
 
+- lemma: φτιάχνω
+  sort_key: φτιαχνω
+  meaning: make, fix
+  voices:
+    active:
+      present: φτιάχνω
+      imperfect: έφτιαχνα
+      aorist: έφτιαξα
+      aorist_subjunctive: φτιάξω
+      imperative:
+        singular: φτιάξε
+        plural: φτιάξτε
+    passive:
+      present: φτιάχνομαι
+      imperfect: φτιαχνόμουν
+      aorist: φτιάχτηκα
+      aorist_subjunctive: φτιαχτώ
+      imperative:
+        singular: φτιάξου
+        plural: φτιαχτείτε
+
 - lemma: κάθομαι
   sort_key: καθομαι
   meaning: sit
@@ -878,6 +899,14 @@
       imperative:
         singular: συνάντησε
         plural: συναντήστε
+    passive:
+      present: συναντιέμαι
+      imperfect: συναντιόμουν
+      aorist: συναντήθηκα
+      aorist_subjunctive: συναντηθώ
+      imperative:
+        singular: συναντήσου
+        plural: συναντηθείτε
 
 - lemma: αποφασίζω
   sort_key: αποφασιζω
@@ -1491,7 +1520,7 @@
 
 - lemma: πειράζω
   sort_key: πειραζω
-  meaning: tease, bother, matter
+  meaning: bother, matter
   voices:
     active:
       present: πειράζω
@@ -2011,3 +2040,37 @@
       imperative:
         singular: ψάλε
         plural: ψάλτε
+
+- lemma: ψάχνω
+  sort_key: ψαχνω
+  meaning: search
+  voices:
+    active:
+      present: ψάχνω
+      imperfect: έψαχνα
+      aorist: έψαξα
+      aorist_subjunctive: ψάξω
+      imperative:
+        singular: ψάξε
+        plural: ψάξτε
+    passive:
+      present: ψάχνομαι
+      imperfect: ψαχνόμουν
+      aorist: ψάχτηκα
+      aorist_subjunctive: ψαχτώ
+      imperative:
+        singular: ψάξου
+        plural: ψαχτείτε
+
+- lemma: βαριέμαι
+  sort_key: βαριεμαι
+  meaning: get bored
+  voices:
+    middle:
+      present: βαριέμαι
+      imperfect: βαριόμουν
+      aorist: βαρέθηκα
+      aorist_subjunctive: βαρεθώ
+      imperative:
+        singular: —
+        plural: —
