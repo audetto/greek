@@ -175,6 +175,345 @@
         singular: —
         plural: —
 
+- lemma: ακολουθώ
+  sort_key: ακολουθω
+  meaning: follow
+  category: Regular
+  voices:
+    active:
+      present: ακολουθώ
+      imperfect: ακολουθούσα
+      aorist: ακολούθησα
+      aorist_subjunctive: ακολουθήσω
+      imperative:
+        singular: ακολούθησε
+        plural: ακολουθήστε
+
+- lemma: περιλαμβάνω
+  sort_key: περιλαμβανω
+  meaning: include, comprise
+  voices:
+    active:
+      present: περιλαμβάνω
+      imperfect: περιλάμβανα
+      aorist: περιέλαβα
+      aorist_subjunctive: περιλάβω
+      imperative:
+        singular: περίλαβε
+        plural: περιλάβετε
+    passive:
+      present: περιλαμβάνομαι
+      imperfect: περιλαμβανόμουν
+      aorist: περιλήφθηκα
+      aorist_subjunctive: περιληφθώ
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: φαντάζομαι
+  sort_key: φανταζομαι
+  meaning: imagine
+  voices:
+    middle:
+      present: φαντάζομαι
+      imperfect: φανταζόμουν
+      aorist: φαντάστηκα
+      aorist_subjunctive: φανταστώ
+      imperative:
+        singular: φαντάσου
+        plural: φανταστείτε
+
+- lemma: εννοώ
+  sort_key: εννοω
+  meaning: mean, intend
+  category: Regular
+  voices:
+    active:
+      present: εννοώ
+      imperfect: εννοούσα
+      aorist: εννόησα
+      aorist_subjunctive: εννοήσω
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: νηστεύω
+  sort_key: νηστευω
+  meaning: fast
+  voices:
+    active:
+      present: νηστεύω
+      imperfect: νήστευα
+      aorist: νήστεψα
+      aorist_subjunctive: νηστέψω
+      imperative:
+        singular: νήστεψε
+        plural: νηστέψτε
+
+- lemma: νιώθω
+  sort_key: νιωθω
+  meaning: feel
+  voices:
+    active:
+      present: νιώθω
+      imperfect: ένιωθα
+      aorist: ένιωσα
+      aorist_subjunctive: νιώσω
+      imperative:
+        singular: νιώσε
+        plural: νιώστε
+
+- lemma: ελευθερώνω
+  sort_key: ελευθερωνω
+  meaning: free, release
+  voices:
+    active:
+      present: ελευθερώνω
+      imperfect: ελευθέρωνα
+      aorist: ελευθέρωσα
+      aorist_subjunctive: ελευθερώσω
+      imperative:
+        singular: ελευθέρωσε
+        plural: ελευθερώστε
+    passive:
+      present: ελευθερώνομαι
+      imperfect: ελευθερωνόμουν
+      aorist: ελευθερώθηκα
+      aorist_subjunctive: ελευθερωθώ
+      imperative:
+        singular: ελευθερώσου
+        plural: ελευθερωθείτε
+
+- lemma: παντρεύω
+  sort_key: παντρευω
+  meaning: marry, marry off
+  voices:
+    active:
+      present: παντρεύω
+      imperfect: πάντρευα
+      aorist: πάντρεψα
+      aorist_subjunctive: παντρέψω
+      imperative:
+        singular: πάντρεψε
+        plural: παντρέψτε
+    passive:
+      present: παντρεύομαι
+      imperfect: παντρευόμουν
+      aorist: παντρεύτηκα
+      aorist_subjunctive: παντρευτώ
+      imperative:
+        singular: παντρέψου
+        plural: παντρευτείτε
+
+- lemma: γεννάω
+  sort_key: γενναω
+  meaning: give birth, be born
+  category: Regular
+  voices:
+    active:
+      present: γεννάω
+      imperfect: γεννούσα
+      aorist: γέννησα
+      aorist_subjunctive: γεννήσω
+      imperative:
+        singular: γέννησε
+        plural: γεννήστε
+    passive:
+      present: γεννιέμαι
+      imperfect: γεννιόμουν
+      aorist: γεννήθηκα
+      aorist_subjunctive: γεννηθώ
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: απολαμβάνω
+  sort_key: απολαμβανω
+  meaning: enjoy
+  voices:
+    active:
+      present: απολαμβάνω
+      imperfect: απολάμβανα
+      aorist: απόλαυσα
+      aorist_subjunctive: απολαύσω
+      imperative:
+        singular: απόλαυσε
+        plural: απολαύστε
+
+- lemma: μπερδεύω
+  sort_key: μπερδευω
+  meaning: confuse, tangle
+  voices:
+    active:
+      present: μπερδεύω
+      imperfect: μπέρδευα
+      aorist: μπέρδεψα
+      aorist_subjunctive: μπερδέψω
+      imperative:
+        singular: μπέρδεψε
+        plural: μπερδέψτε
+    passive:
+      present: μπερδεύομαι
+      imperfect: μπερδευόμουν
+      aorist: μπερδεύτηκα
+      aorist_subjunctive: μπερδευτώ
+      imperative:
+        singular: μπερδέψου
+        plural: μπερδευτείτε
+
+- lemma: φαίνομαι
+  sort_key: φαινομαι
+  meaning: seem, appear
+  voices:
+    middle:
+      present: φαίνομαι
+      imperfect: φαινόμουν
+      aorist: φάνηκα
+      aorist_subjunctive: φανώ
+      imperative:
+        singular: —
+        plural: φανείτε
+
+- lemma: πιάνω
+  sort_key: πιανω
+  meaning: catch, grab
+  voices:
+    active:
+      present: πιάνω
+      imperfect: έπιανα
+      aorist: έπιασα
+      aorist_subjunctive: πιάσω
+      imperative:
+        singular: πιάσε
+        plural: πιάστε
+    passive:
+      present: πιάνομαι
+      imperfect: πιανόμουν
+      aorist: πιάστηκα
+      aorist_subjunctive: πιαστώ
+      imperative:
+        singular: πιάσου
+        plural: πιαστείτε
+
+- lemma: ξεκινάω
+  sort_key: ξεκιναω
+  meaning: start, begin
+  category: Regular
+  voices:
+    active:
+      present: ξεκινάω
+      imperfect: ξεκινούσα
+      aorist: ξεκίνησα
+      aorist_subjunctive: ξεκινήσω
+      imperative:
+        singular: ξεκίνα
+        plural: ξεκινήστε
+
+- lemma: αντιγράφω
+  sort_key: αντιγραφω
+  meaning: copy
+  voices:
+    active:
+      present: αντιγράφω
+      imperfect: αντέγραφα
+      aorist: αντέγραψα
+      aorist_subjunctive: αντιγράψω
+      imperative:
+        singular: αντίγραψε
+        plural: αντιγράψτε
+    passive:
+      present: αντιγράφομαι
+      imperfect: αντιγραφόμουν
+      aorist: αντιγράφτηκα
+      aorist_subjunctive: αντιγραφτώ
+      imperative:
+        singular: αντιγράψου
+        plural: αντιγραφτείτε
+
+- lemma: περιγράφω
+  sort_key: περιγραφω
+  meaning: describe
+  voices:
+    active:
+      present: περιγράφω
+      imperfect: περιέγραφα
+      aorist: περιέγραψα
+      aorist_subjunctive: περιγράψω
+      imperative:
+        singular: περίγραψε
+        plural: περιγράψτε
+    passive:
+      present: περιγράφομαι
+      imperfect: περιγραφόμουν
+      aorist: περιγράφτηκα
+      aorist_subjunctive: περιγραφτώ
+      imperative:
+        singular: περιγράψου
+        plural: περιγραφτείτε
+
+- lemma: διαγράφω
+  sort_key: διαγραφω
+  meaning: delete, erase
+  voices:
+    active:
+      present: διαγράφω
+      imperfect: διέγραφα
+      aorist: διέγραψα
+      aorist_subjunctive: διαγράψω
+      imperative:
+        singular: διάγραψε
+        plural: διαγράψτε
+    passive:
+      present: διαγράφομαι
+      imperfect: διαγραφόμουν
+      aorist: διαγράφτηκα
+      aorist_subjunctive: διαγραφτώ
+      imperative:
+        singular: διαγράψου
+        plural: διαγράψτε
+
+- lemma: υπογράφω
+  sort_key: υπογραφω
+  meaning: sign
+  voices:
+    active:
+      present: υπογράφω
+      imperfect: υπέγραφα
+      aorist: υπέγραψα
+      aorist_subjunctive: υπογράψω
+      imperative:
+        singular: υπόγραψε
+        plural: υπογράψτε
+    passive:
+      present: υπογράφομαι
+      imperfect: υπογραφόμουν
+      aorist: υπογράφτηκα
+      aorist_subjunctive: υπογραφτώ
+      imperative:
+        singular: υπογράψου
+        plural: υπογραφτείτε
+
+- lemma: διορθώνω
+  sort_key: διορθωνω
+  meaning: correct
+  voices:
+    active:
+      present: διορθώνω
+      imperfect: διόρθωνα
+      aorist: διόρθωσα
+      aorist_subjunctive: διορθώσω
+      imperative:
+        singular: διόρθωσε
+        plural: διορθώστε
+    passive:
+      present: διορθώνομαι
+      imperfect: διορθωνόμουν
+      aorist: διορθώθηκα
+      aorist_subjunctive: διορθωθώ
+      imperative:
+        singular: διορθώσου
+        plural: διορθωθείτε
+
 - lemma: κάνω
   sort_key: κανω
   meaning: do, make
