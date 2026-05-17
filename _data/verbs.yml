@@ -2413,3 +2413,107 @@
       imperative:
         singular: —
         plural: —
+
+- lemma: συμπαθώ
+  sort_key: συμπαθω
+  meaning: like, sympathize
+  category: Regular
+  voices:
+    active:
+      present: συμπαθώ
+      imperfect: συμπαθούσα
+      aorist: συμπάθησα
+      aorist_subjunctive: συμπαθήσω
+      imperative:
+        singular: συμπάθησε
+        plural: συμπαθήστε
+
+- lemma: αντιπαθώ
+  sort_key: αντιπαθω
+  meaning: dislike, detest
+  category: Regular
+  voices:
+    active:
+      present: αντιπαθώ
+      imperfect: αντιπαθούσα
+      aorist: αντιπάθησα
+      aorist_subjunctive: αντιπαθήσω
+      imperative:
+        singular: αντιπάθησε
+        plural: αντιπαθήστε
+
+- lemma: συνειδητοποιώ
+  sort_key: συνειδητοποιω
+  meaning: realize
+  voices:
+    active:
+      present: συνειδητοποιώ
+      imperfect: συνειδητοποιούσα
+      aorist: συνειδητοποίησα
+      aorist_subjunctive: συνειδητοποιήσω
+      imperative:
+        singular: συνειδητοποίησε
+        plural: συνειδητοποιήστε
+    passive:
+      present: συνειδητοποιούμαι
+      imperfect: συνειδητοποιούμουν
+      aorist: συνειδητοποιήθηκα
+      aorist_subjunctive: συνειδητοποιηθώ
+      imperative:
+        singular: συνειδητοποιήσου
+        plural: συνειδητοποιηθείτε
+
+- lemma: αντιλέγω
+  sort_key: αντιλεγω
+  meaning: contradict, object
+  voices:
+    active:
+      present: αντιλέγω
+      imperfect: αντέλεγα
+      aorist: αντείπα
+      aorist_subjunctive: αντιπώ
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: επαναλαμβάνω
+  sort_key: επαναλαμβανω
+  meaning: repeat
+  voices:
+    active:
+      present: επαναλαμβάνω
+      imperfect: επανελάμβανα
+      aorist: επανέλαβα
+      aorist_subjunctive: επαναλάβω
+      imperative:
+        singular: επανάλαβε
+        plural: επαναλάβετε
+    passive:
+      present: επαναλαμβάνομαι
+      imperfect: επαναλαμβανόμουν
+      aorist: επαναλήφθηκα
+      aorist_subjunctive: επαναληφθώ
+      imperative:
+        singular: επαναλήψου
+        plural: επαναληφθείτε
+
+- lemma: ντύνω
+  sort_key: ντυνω
+  meaning: dress
+  voices:
+    active:
+      present: ντύνω
+      imperfect: έντυνα
+      aorist: έντυσα
+      aorist_subjunctive: ντύσω
+      imperative:
+        singular: ντύσε
+        plural: ντύστε
+    passive:
+      present: ντύνομαι
+      imperfect: ντυνόμουν
+      aorist: ντύθηκα
+      aorist_subjunctive: ντυθώ
+      imperative:
+        singular: ντύσου
+        plural: ντυθείτε
