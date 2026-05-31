@@ -2682,3 +2682,50 @@
       imperative:
         singular: υποκρίσου
         plural: υποκριθείτε
+
+- lemma: σκοτώνω
+  sort_key: σκοτωνω
+  meaning: kill
+  voices:
+    active:
+      present: σκοτώνω
+      imperfect: σκότωνα
+      aorist: σκότωσα
+      aorist_subjunctive: σκοτώσω
+      imperative:
+        singular: σκότωσε
+        plural: σκοτώστε
+    passive:
+      present: σκοτώνομαι
+      imperfect: σκοτωνόμουν
+      aorist: σκοτώθηκα
+      aorist_subjunctive: σκοτωθώ
+      imperative:
+        singular: σκοτώσου
+        plural: σκοτωθείτε
+
+- lemma: τυραννιέμαι
+  sort_key: τυραννιεμαι
+  meaning: be tormented, suffer
+  voices:
+    middle:
+      present: τυραννιέμαι
+      imperfect: τυραννιόμουν
+      aorist: τυραννήθηκα
+      aorist_subjunctive: τυραννηθώ
+      imperative:
+        singular: τυραννήσου
+        plural: τυραννηθείτε
+
+- lemma: τρελαίνομαι
+  sort_key: τρελαινομαι
+  meaning: go crazy, be mad
+  voices:
+    middle:
+      present: τρελαίνομαι
+      imperfect: τρελαινόμουν
+      aorist: τρελάθηκα
+      aorist_subjunctive: τρελαθώ
+      imperative:
+        singular: τρελάσου
+        plural: τρελαθείτε
