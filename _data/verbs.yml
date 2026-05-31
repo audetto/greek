@@ -2517,3 +2517,168 @@
       imperative:
         singular: ντύσου
         plural: ντυθείτε
+
+- lemma: αναφέρω
+  sort_key: αναφερω
+  meaning: report, mention, refer
+  voices:
+    active:
+      present: αναφέρω
+      imperfect: ανέφερα
+      aorist: ανέφερα
+      aorist_subjunctive: αναφέρω
+      imperative:
+        singular: ανάφερε
+        plural: αναφέρετε
+    passive:
+      present: αναφέρομαι
+      imperfect: αναφερόμουν
+      aorist: αναφέρθηκα
+      aorist_subjunctive: αναφερθώ
+      imperative:
+        singular: αναφέρσου
+        plural: αναφερθείτε
+
+- lemma: βελτιώνω
+  sort_key: βελτιωνω
+  meaning: improve
+  voices:
+    active:
+      present: βελτιώνω
+      imperfect: βελτίωνα
+      aorist: βελτίωσα
+      aorist_subjunctive: βελτιώσω
+      imperative:
+        singular: βελτίωσε
+        plural: βελτιώστε
+    passive:
+      present: βελτιώνομαι
+      imperfect: βελτιωνόμουν
+      aorist: βελτιώθηκα
+      aorist_subjunctive: βελτιωθώ
+      imperative:
+        singular: βελτιώσου
+        plural: βελτιωθείτε
+
+- lemma: παιδεύω
+  sort_key: παιδευω
+  meaning: educate, torment
+  voices:
+    active:
+      present: παιδεύω
+      imperfect: παίδευα
+      aorist: παίδεψα
+      aorist_subjunctive: παιδέψω
+      imperative:
+        singular: παίδεψε
+        plural: παιδέψτε
+    passive:
+      present: παιδεύομαι
+      imperfect: παιδευόμουν
+      aorist: παιδεύτηκα
+      aorist_subjunctive: παιδευτώ
+      imperative:
+        singular: παιδέψου
+        plural: παιδευτείτε
+
+- lemma: σώζω
+  sort_key: σωζω
+  meaning: save, rescue
+  voices:
+    active:
+      present: σώζω
+      imperfect: έσωζα
+      aorist: έσωσα
+      aorist_subjunctive: σώσω
+      imperative:
+        singular: σώσε
+        plural: σώστε
+    passive:
+      present: σώζομαι
+      imperfect: σωζόμουν
+      aorist: σώθηκα
+      aorist_subjunctive: σωθώ
+      imperative:
+        singular: σώσου
+        plural: σωθείτε
+
+- lemma: τυλίγω
+  sort_key: τυλιγω
+  meaning: wrap, wrap up
+  voices:
+    active:
+      present: τυλίγω
+      imperfect: τύλιγα
+      aorist: τύλιξα
+      aorist_subjunctive: τυλίξω
+      imperative:
+        singular: τύλιξε
+        plural: τυλίξτε
+    passive:
+      present: τυλίγομαι
+      imperfect: τυλιγόμουν
+      aorist: τυλίχτηκα
+      aorist_subjunctive: τυλιχτώ
+      imperative:
+        singular: τυλίξου
+        plural: τυλιχτείτε
+
+- lemma: καταλήγω
+  sort_key: καταληγω
+  meaning: end up, conclude
+  voices:
+    active:
+      present: καταλήγω
+      imperfect: κατέληγα
+      aorist: κατέληξα
+      aorist_subjunctive: καταλήξω
+      imperative:
+        singular: κατάληξε
+        plural: καταλήξτε
+
+- lemma: αντέχω
+  sort_key: αντεχω
+  meaning: endure, withstand
+  voices:
+    active:
+      present: αντέχω
+      imperfect: άντεχα
+      aorist: άντεξα
+      aorist_subjunctive: αντέξω
+      imperative:
+        singular: άντεξε
+        plural: αντέξτε
+
+- lemma: αγκαλιάζω
+  sort_key: αγκαλιαζω
+  meaning: hug, embrace
+  voices:
+    active:
+      present: αγκαλιάζω
+      imperfect: αγκάλιαζα
+      aorist: αγκάλιασα
+      aorist_subjunctive: αγκαλιάσω
+      imperative:
+        singular: αγκάλιασε
+        plural: αγκαλιάστε
+    passive:
+      present: αγκαλιάζομαι
+      imperfect: αγκαλιαζόμουν
+      aorist: αγκαλιάστηκα
+      aorist_subjunctive: αγκαλιαστώ
+      imperative:
+        singular: αγκαλιάσου
+        plural: αγκαλιαστείτε
+
+- lemma: υποκρίνομαι
+  sort_key: υποκρινομαι
+  meaning: pretend, act, feign
+  voices:
+    middle:
+      present: υποκρίνομαι
+      imperfect: υποκρινόμουν
+      aorist: υποκρίθηκα
+      aorist_subjunctive: υποκριθώ
+      imperative:
+        singular: υποκρίσου
+        plural: υποκριθείτε
