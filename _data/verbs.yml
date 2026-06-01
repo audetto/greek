@@ -2729,3 +2729,119 @@
       imperative:
         singular: τρελάσου
         plural: τρελαθείτε
+
+- lemma: απεχθάνομαι
+  sort_key: απεχθανομαι
+  meaning: detest, abhor
+  voices:
+    middle:
+      present: απεχθάνομαι
+      imperfect: απεχθανόμουν
+      aorist: απεχθάνθηκα
+      aorist_subjunctive: απεχθανθώ
+      imperative:
+        singular: απεχθάνσου
+        plural: απεχθανθείτε
+
+- lemma: ασχολούμαι
+  sort_key: ασχολουμαι
+  meaning: be busy with
+  voices:
+    middle:
+      present: ασχολούμαι
+      imperfect: ασχολούμουν
+      aorist: ασχολήθηκα
+      aorist_subjunctive: ασχοληθώ
+      imperative:
+        singular: ασχολήσου
+        plural: ασχοληθείτε
+
+- lemma: παρακολουθώ
+  sort_key: παρακολουθω
+  meaning: watch, monitor, follow
+  category: Regular
+  voices:
+    active:
+      present: παρακολουθώ
+      imperfect: παρακολουθούσα
+      aorist: παρακολούθησα
+      aorist_subjunctive: παρακολουθήσω
+      imperative:
+        singular: παρακολούθησε
+        plural: παρακολουθήστε
+
+- lemma: ανήκω
+  sort_key: ανηκω
+  meaning: belong
+  voices:
+    active:
+      present: ανήκω
+      imperfect: ανήκα
+      aorist: —
+      aorist_subjunctive: —
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: ρίχνω
+  sort_key: ριχνω
+  meaning: throw, drop
+  voices:
+    active:
+      present: ρίχνω
+      imperfect: έριχνα
+      aorist: έριξα
+      aorist_subjunctive: ρίξω
+      imperative:
+        singular: ρίξε
+        plural: ρίξτε
+    passive:
+      present: ρίχνομαι
+      imperfect: ριχνόμουν
+      aorist: ρίχτηκα
+      aorist_subjunctive: ριχτώ
+      imperative:
+        singular: ρίξου
+        plural: ριχτείτε
+
+- lemma: προφέρω
+  sort_key: προφερω
+  meaning: pronounce
+  voices:
+    active:
+      present: προφέρω
+      imperfect: πρόφερα
+      aorist: πρόφερα
+      aorist_subjunctive: προφέρω
+      imperative:
+        singular: πρόφερε
+        plural: προφέρετε
+    passive:
+      present: προφέρομαι
+      imperfect: προφερόμουν
+      aorist: προφέρθηκα
+      aorist_subjunctive: προφερθώ
+      imperative:
+        singular: προφέρσου
+        plural: προφερθείτε
+
+- lemma: απαγορεύω
+  sort_key: απαγορευω
+  meaning: forbid, prohibit
+  voices:
+    active:
+      present: απαγορεύω
+      imperfect: απαγόρευα
+      aorist: απαγόρευσα
+      aorist_subjunctive: απαγορεύσω
+      imperative:
+        singular: απαγόρευσε
+        plural: απαγορεύστε
+    passive:
+      present: απαγορεύομαι
+      imperfect: απαγορευόμουν
+      aorist: απαγορεύτηκα
+      aorist_subjunctive: απαγορευτώ
+      imperative:
+        singular: —
+        plural: —
