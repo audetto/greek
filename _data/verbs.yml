@@ -2845,3 +2845,63 @@
       imperative:
         singular: —
         plural: —
+
+- lemma: προλαβαίνω
+  sort_key: προλαβαινω
+  meaning: catch up, make it in time
+  voices:
+    active:
+      present: προλαβαίνω
+      imperfect: προλάμβανα
+      aorist: πρόλαβα
+      aorist_subjunctive: προλάβω
+      imperative:
+        singular: πρόλαβε
+        plural: προλάβετε
+
+- lemma: εμφανίζομαι
+  sort_key: εμφανιζομαι
+  meaning: appear, show up
+  voices:
+    middle:
+      present: εμφανίζομαι
+      imperfect: εμφανιζόμουν
+      aorist: εμφανίστηκα
+      aorist_subjunctive: εμφανιστώ
+      imperative:
+        singular: εμφανίσου
+        plural: εμφανιστείτε
+
+- lemma: ορκίζομαι
+  sort_key: ορκιζομαι
+  meaning: swear, take an oath
+  voices:
+    middle:
+      present: ορκίζομαι
+      imperfect: ορκιζόμουν
+      aorist: ορκίστηκα
+      aorist_subjunctive: ορκιστώ
+      imperative:
+        singular: ορκίσου
+        plural: ορκιστείτε
+
+- lemma: κοροϊδεύω
+  sort_key: κοροϊδευω
+  meaning: tease, make fun of
+  voices:
+    active:
+      present: κοροϊδεύω
+      imperfect: κορόιδευα
+      aorist: κορόιδεψα
+      aorist_subjunctive: κοροϊδέψω
+      imperative:
+        singular: κορόιδεψε
+        plural: κοροϊδέψτε
+    passive:
+      present: κοροϊδεύομαι
+      imperfect: κοροϊδευόμουν
+      aorist: κοροϊδεύτηκα
+      aorist_subjunctive: κοροϊδευτώ
+      imperative:
+        singular: κοροϊδέψου
+        plural: κοροϊδευτείτε
