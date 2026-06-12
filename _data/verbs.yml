@@ -2905,3 +2905,50 @@
       imperative:
         singular: κοροϊδέψου
         plural: κοροϊδευτείτε
+
+- lemma: εμπιστεύομαι
+  sort_key: εμπιστευομαι
+  meaning: trust
+  voices:
+    middle:
+      present: εμπιστεύομαι
+      imperfect: εμπιστευόμουν
+      aorist: εμπιστεύτηκα
+      aorist_subjunctive: εμπιστευτώ
+      imperative:
+        singular: εμπιστεύσου
+        plural: εμπιστευτείτε
+
+- lemma: δέχομαι
+  sort_key: δεχομαι
+  meaning: accept
+  voices:
+    middle:
+      present: δέχομαι
+      imperfect: δεχόμουν
+      aorist: δέχτηκα
+      aorist_subjunctive: δεχτώ
+      imperative:
+        singular: δέξου
+        plural: δεχτείτε
+
+- lemma: παραλαμβάνω
+  sort_key: παραλαμβανω
+  meaning: receive, pick up
+  voices:
+    active:
+      present: παραλαμβάνω
+      imperfect: παραλάμβανα
+      aorist: παρέλαβα
+      aorist_subjunctive: παραλάβω
+      imperative:
+        singular: παράλαβε
+        plural: παραλάβετε
+    passive:
+      present: παραλαμβάνομαι
+      imperfect: παραλαμβανόμουν
+      aorist: παραλήφθηκα
+      aorist_subjunctive: παραληφθώ
+      imperative:
+        singular: —
+        plural: —
