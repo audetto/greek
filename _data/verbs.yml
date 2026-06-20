@@ -2952,3 +2952,130 @@
       imperative:
         singular: —
         plural: —
+
+- lemma: βράζω
+  sort_key: βραζω
+  meaning: boil
+  voices:
+    active:
+      present: βράζω
+      imperfect: έβραζα
+      aorist: έβρασα
+      aorist_subjunctive: βράσω
+      imperative:
+        singular: βράσε
+        plural: βράστε
+    passive:
+      present: βράζομαι
+      imperfect: βραζόμουν
+      aorist: βράστηκα
+      aorist_subjunctive: βραστώ
+      imperative:
+        singular: —
+        plural: —
+
+- lemma: ανακατεύω
+  sort_key: ανακατευω
+  meaning: mix, stir, meddle
+  voices:
+    active:
+      present: ανακατεύω
+      imperfect: ανακάτευα
+      aorist: ανακάτεψα
+      aorist_subjunctive: ανακατέψω
+      imperative:
+        singular: ανακάτεψε
+        plural: ανακατέψτε
+    passive:
+      present: ανακατεύομαι
+      imperfect: ανακατευόμουν
+      aorist: ανακατεύτηκα
+      aorist_subjunctive: ανακατευτώ
+      imperative:
+        singular: ανακατέψου
+        plural: ανακατευτείτε
+
+- lemma: κολλάω
+  sort_key: κολλαω
+  meaning: stick, glue, catch
+  category: Regular
+  voices:
+    active:
+      present: κολλάω
+      imperfect: κολλούσα
+      aorist: κόλλησα
+      aorist_subjunctive: κολλήσω
+      imperative:
+        singular: κόλλησε
+        plural: κολλήστε
+    passive:
+      present: κολλιέμαι
+      imperfect: κολλιόμουν
+      aorist: κολλήθηκα
+      aorist_subjunctive: κολληθώ
+      imperative:
+        singular: κολλήσου
+        plural: κολληθείτε
+
+- lemma: ψήνω
+  sort_key: ψηνω
+  meaning: bake, roast, grill
+  voices:
+    active:
+      present: ψήνω
+      imperfect: έψηνα
+      aorist: έψησα
+      aorist_subjunctive: ψήσω
+      imperative:
+        singular: ψήσε
+        plural: ψήστε
+    passive:
+      present: ψήνομαι
+      imperfect: ψηνόμουν
+      aorist: ψήθηκα
+      aorist_subjunctive: ψηθώ
+      imperative:
+        singular: ψήσου
+        plural: ψηθείτε
+
+- lemma: φρεσκάρω
+  sort_key: φρεσκαρω
+  meaning: freshen up, renew
+  voices:
+    active:
+      present: φρεσκάρω
+      imperfect: φρεσκάριζα
+      aorist: φρεσκάρισα
+      aorist_subjunctive: φρεσκάρω
+      imperative:
+        singular: φρέσκαρε
+        plural: φρεσκάρετε
+    passive:
+      present: φρεσκάρομαι
+      imperfect: φρεσκαριζόμουν
+      aorist: φρεσκαρίστηκα
+      aorist_subjunctive: φρεσκαριστώ
+      imperative:
+        singular: φρεσκαρίσου
+        plural: φρεσκαριστείτε
+
+- lemma: μαντεύω
+  sort_key: μαντευω
+  meaning: guess
+  voices:
+    active:
+      present: μαντεύω
+      imperfect: μάντευα
+      aorist: μάντεψα
+      aorist_subjunctive: μαντέψω
+      imperative:
+        singular: μάντεψε
+        plural: μαντέψτε
+    passive:
+      present: μαντεύομαι
+      imperfect: μαντευόμουν
+      aorist: μαντεύτηκα
+      aorist_subjunctive: μαντευτώ
+      imperative:
+        singular: μαντέψου
+        plural: μαντευτείτε
